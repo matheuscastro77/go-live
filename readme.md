@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://go-live-tan.vercel.app/
+[Go Live](https://go-live-tan.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
